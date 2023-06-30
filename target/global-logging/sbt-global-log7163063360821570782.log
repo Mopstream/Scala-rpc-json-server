@@ -1,0 +1,6 @@
+[debug] > Exec(libraryDependencies, None, None)
+[debug] Evaluating tasks: libraryDependencies
+[info] * org.scala-lang:scala-library:2.13.10
+[info] * com.fasterxml.jackson.module:jackson-module-scala:2.14.2
+[info] * com.github.briandilley.jsonrpc4j:jsonrpc4j:1.6
+[debug] > Exec(idea-shell, None, None)
